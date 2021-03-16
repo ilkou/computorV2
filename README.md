@@ -4,6 +4,28 @@
 
 This project aims to create a calculator in command line, which will integrate [computorV1](https://github.com/ilkou/computorv1) project as well as functions for matrix calculus, function resolution, calculation with complex numbers, etc.
 
+## Build
+
+```
+npm run build
+```
+
+## Run
+
+```
+npm start
+```
+
+## Dev mode
+
+```
+npm run watch
+```
+
+```
+npm run dev
+```
+
 ## Links
 
 * [tsc](https://www.typescriptlang.org/docs/handbook/compiler-options.html)
